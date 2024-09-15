@@ -1,3 +1,4 @@
 Hello,world!
 こんにちは、世界!
 Hello_world.txtを追加
+日本語訳を追記
